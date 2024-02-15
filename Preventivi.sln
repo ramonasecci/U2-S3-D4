@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Preventivi", "Preventivi.csproj", "{18D4A266-5404-42CF-823A-649623DC48ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D4A266-5404-42CF-823A-649623DC48ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D4A266-5404-42CF-823A-649623DC48ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D4A266-5404-42CF-823A-649623DC48ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D4A266-5404-42CF-823A-649623DC48ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF2A070F-8B61-4BC2-8A04-4BB064E2F75E}
+	EndGlobalSection
+EndGlobal
